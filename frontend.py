@@ -59,7 +59,7 @@ button:hover {
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://i.ibb.co/X8c6vRx/robot.png" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="https://i.ibb.co/w09P1sQ/image.png" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="message">{{message}}</div>
 </div>
@@ -68,7 +68,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://i.ibb.co/7vhdqyt/user.png">
+        <img src="https://i.ibb.co/Cv3zPQy/image.png">
     </div>    
     <div class="message">{{message}}</div>
 </div>
