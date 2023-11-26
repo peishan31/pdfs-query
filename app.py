@@ -57,7 +57,6 @@ def handle_user_input(user_question):
             st.write(bot_template.replace(
                 "{{message}}", message.content), unsafe_allow_html=True)
 
-
 def main():
     load_dotenv()
     st.set_page_config(page_title="Reading multiple PDFs", page_icon=":computer:")
